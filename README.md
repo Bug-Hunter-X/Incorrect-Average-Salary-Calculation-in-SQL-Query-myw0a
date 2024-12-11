@@ -1,0 +1,1 @@
+This repository contains a SQL query with an error in calculating the average salary. The original query incorrectly uses AVG(salary) across the entire table when it should be calculating it within the Sales department. The solution provides the correct query that groups by department and then filters.
